@@ -4,7 +4,7 @@
 
 *A curious developer on a learning journey — one line of code at a time.*
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Averia+Libre&pause=1000&color=C2F5FFE0&width=435&lines=Turning+Ideas+into+Reality" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Averia+Libre&weight=500&size=30&pause=1000&color=C2F5FFE0&width=435&lines=Turning+Ideas+into+Reality)](https://git.io/typing-svg)
 
 </div>
 
